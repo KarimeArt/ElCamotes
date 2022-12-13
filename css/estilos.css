@@ -5,7 +5,7 @@
 
 body{
     height: 100vh;
-    background: #584040;
+    background: #000000;
     display: flex;
     align-items: center;
 }
@@ -17,7 +17,7 @@ body{
     
     position: relative;
 
-    background: linear-gradient(#b7d6c7, transparent) #ffe2d1;/*linear-gradient(#90ebff, white);*/
+    background: url(../img/fondodia.png) repeat-x 0px 0px;/*linear-gradient(#90ebff, white);*/
     transition: background-color 1s linear;
     overflow: hidden;
 }
